@@ -1,0 +1,7 @@
+@import "./base.css";
+
+#app {
+  display: grid;
+  gap: 3rem;
+  place-items: center;
+}
